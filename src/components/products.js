@@ -5,7 +5,7 @@ export const products = [
         description: "black in color",
         price: '$250',
         img: 'https://i.ibb.co/Bcdhghs/samsungm21.jpg',
-        amount:1
+        quantity:1
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ export const products = [
         description: "white in color",
         price: '$230',
         img: 'https://i.ibb.co/MM3G4wn/samsung-galaxy-s21.jpg',
-        amount:1
+        quantity:1
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ export const products = [
         description: "black in color",
         price: '$350',
         img: 'https://i.ibb.co/Rp1gXdh/redmi9.jpg',
-        amount:1
+        quantity:1
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ export const products = [
         description: "blue in color",
         price: '$650',
         img: 'https://i.ibb.co/Yyd82WF/iphone-12-blue-select-2020.png',
-        amount:1
+        quantity:1
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ export const products = [
         description: "blue in color",
         price: '$650',
         img: 'https://i.ibb.co/BcqtVG7/iphone11.jpg',
-        amount:1
+        quantity:1
     },
 ]
 
