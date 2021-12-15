@@ -3,7 +3,7 @@ export const products = [
         id: 1,
         title: "Samsung S21",
         description: "black in color",
-        price: '$250',
+        price: '250',
         img: 'https://i.ibb.co/Bcdhghs/samsungm21.jpg',
         quantity:1
     },
@@ -11,7 +11,7 @@ export const products = [
         id: 2,
         title: "Samsung M21",
         description: "white in color",
-        price: '$230',
+        price: '230',
         img: 'https://i.ibb.co/MM3G4wn/samsung-galaxy-s21.jpg',
         quantity:1
     },
@@ -19,7 +19,7 @@ export const products = [
         id: 3,
         title: "Redmi 9",
         description: "black in color",
-        price: '$350',
+        price: '350',
         img: 'https://i.ibb.co/Rp1gXdh/redmi9.jpg',
         quantity:1
     },
@@ -27,7 +27,7 @@ export const products = [
         id: 4,
         title: "Iphone 12",
         description: "blue in color",
-        price: '$650',
+        price: '650',
         img: 'https://i.ibb.co/Yyd82WF/iphone-12-blue-select-2020.png',
         quantity:1
     },
@@ -35,7 +35,7 @@ export const products = [
         id: 5,
         title: "Iphone 11",
         description: "blue in color",
-        price: '$650',
+        price: '650',
         img: 'https://i.ibb.co/BcqtVG7/iphone11.jpg',
         quantity:1
     },
