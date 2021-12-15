@@ -19,7 +19,7 @@ const { removeItem, increment, decrement } = useContext(CartContext)
                                 <i className="fas fa-plus add" onClick={() => increment(id)}></i>
                             </div>
                             <div className="price">
-                                <h3>₹{price}</h3>
+                                <h3>₹{price * quantity}</h3>
                             </div>
                             <div className="remove-item">
                                 <i className="fas fa-trash-alt remove" onClick={()=>removeItem(id)}></i>
